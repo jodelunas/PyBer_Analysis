@@ -28,4 +28,8 @@ The data revealed the differences in total rides, total drivers, total fares, av
   - Average Fare per Driver: $16.57
   
   
-  
+  <img width="618" alt="Screen Shot 2022-07-06 at 8 44 52 AM" src="https://user-images.githubusercontent.com/106006911/177564858-7b14751d-36eb-41e2-bf8f-09ee2da22c7e.png">
+
+<img width="1069" alt="Screen Shot 2022-07-06 at 8 45 08 AM" src="https://user-images.githubusercontent.com/106006911/177564915-8c398570-000b-4357-b50c-d8c86ce8ed17.png">
+
+
